@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Know the tint is dark
 permalink: /about/
 ---
 
