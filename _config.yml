@@ -1,8 +1,8 @@
 # Site setings
-name: 'Forma'
+name: 'be your god'
 description: 'Bold Theme For Brave People'
 # Sidebar about text
-site_description: 'Welcome to my blog. It features topics such as fashion, architecture, travel & design. This blog is about finding balance in life, living with purpose, having fun, and doing what you love.'
+site_description: 'Maybe I can be your god'
 logo:
 favicon: 'assets/images/favicon.ico'
 baseurl: 
@@ -18,7 +18,7 @@ contact_page_description: "Forma theme comes with a contact form built-in. You c
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
-twitter: 'username'
+twitter: '5pxrtint'
 facebook: 'username'
 github: 'username'
 codepen: 'username'
