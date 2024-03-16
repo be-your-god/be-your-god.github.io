@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "더지 35문답"
+title: "35 QNA about darkurge"
 tags: [bg3, darkurge, rayla]
 featured_image_thumbnail:
 featured_image: assets/images/posts/22.jpg
