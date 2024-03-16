@@ -1,8 +1,8 @@
 # Site setings
-name: 'be your god'
-description: 'Bold Theme For Brave People'
+name: 'Be your god'
+description: 'Maybe I can be your god'
 # Sidebar about text
-site_description: 'Maybe I can be your god'
+site_description: ''
 logo:
 favicon: 'assets/images/favicon.ico'
 baseurl: 
@@ -32,10 +32,6 @@ linkedin: 'username'
 navigation:
   - text: About
     url: /about/
-  - text: Style Guide
-    url: /style-guide/
-  - text: Contact Me
-    url: /contact/
 
 # Required Plugins
 plugins_dir:
@@ -45,9 +41,12 @@ plugins_dir:
   - jekyll-sitemap
   - jekyll-author-page
 
+plugins: [jekyll-paginate]
+
 # Pagination
 paginate: 6
 paginate_path: /page:num/
+
 
 # Permalinks
 permalink: /:title
