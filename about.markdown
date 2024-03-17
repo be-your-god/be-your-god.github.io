@@ -4,8 +4,6 @@ title: Know the tint is dark
 permalink: /about/
 ---
 
-##
-
 <h3>Judy</h3>
 
 **게일 최애**, 게일 제외한 다른 컴패니언은 두루두루 전부 좋아하는 성인 여성입니다. <br/> 
